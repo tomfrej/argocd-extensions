@@ -1,1 +1,1 @@
-6f98375fa560eabfa382c65450b29751fd88a8a22d24dd9008dfe751ca601f2e  extension.tar.gz
+b6600a286ba102f0ed19a20a2573906bcb9f88f51b9c4c00f32bd5f157abe3c4  extension.tar.gz
