@@ -1,0 +1,11 @@
+apiVersion: argoproj.io/v1alpha1
+kind: ArgoCDExtension
+metadata:
+  name: argocd-canary-extension
+  namespace: argocd
+  finalizers:
+    - extensions-finalizer.argocd.argoproj.io
+spec:
+  sources:
+    - web:
+        url: https://raw.githubusercontent.com/tomfrej/argocd-extensions/master/argocd-canary-extension/extension.tar.gz
