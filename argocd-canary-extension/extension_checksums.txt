@@ -1,1 +1,2 @@
 95cf5f43376941ccb314cf1bff1c7809c9dcb590622c376e765d3c141df358cb  extension.tar.gz
+85129ea50266b9bb115a39025f4d3ce8cf8502a77f97cac94437978c5b52232a  argocd-canary-extension.tar.gz
